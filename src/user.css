@@ -1,0 +1,13 @@
+.user {
+	border: 1px solid #ccc;
+	width: auto;
+	margin: auto;
+}
+
+.user:hover {
+	background-color: darkkhaki;
+}
+
+.active {
+	background-color: darkkhaki;
+}
